@@ -1,26 +1,6 @@
 {
   "ad1":[
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/g4bgRblul5Tk3JHG3EaskFhriZCB--Tp8zw2tqjoEoHugll1N4tpUoL8Hg9mFWIIiONG=s180-rw",
-      "ads_name": "FaceTime",
-      "ads_Link": "https://play.google.com/store/apps/details?id=facetime.facetime.facetime.videocall.facetimeguide.freefacetimeguide.facetime01"
-    },
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/jl9TtJVO9SgpMVClhGao-u28aYr3q7fgEBAsimEWfbd2UZF1S6UG2SrC-8ny_kg4-hVh=s180-rw",
-      "ads_name": "Facetime",
-      "ads_Link": "https://play.google.com/store/apps/details?id=facetime.facetime.facetime.videocall.facetimeguide.freefacetimeguide.facetime01"
-    },
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/qCQJ_4cfyW5yq6-l8qQxkhxRpx8sfy-tm2xINcrclw3JSAStvwxggoj6C8kVIcaTSxUv=s180-rw",
-      "ads_name": "Facetime",
-      "ads_Link": "https://play.google.com/store/apps/details?id=facetime.facetime.facetime.videocall.facetimeguide.freefacetimeguide.facetime01"
-    },
+     
      {
       "des": "",
       "banner": "",
@@ -31,17 +11,67 @@
      {
       "des": "",
       "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/tJvAKYTOU5T1WaAfA7ilda96n2SIp74FbEkOvmGhVvxQ5AiBSx2aj5j2MNBceeg3xJc=s180-rw",
-      "ads_name": "Star Live Sports TV Cricket HD",
-      "ads_Link": "https://play.google.com/store/apps/details?id=starsports.starsports.cricket.sportsguide.starsports.hotstar.ipl.cricket.starsports.ipl03"
+      "image_path": "https://play-lh.googleusercontent.com/1Z0hIRudfCYPv_kLIA38SChYsts01NrlcO2urlGoUFmurEiri9reDi4jT5K_3LFlFX7i=s180-rw",
+      "ads_name": "Thop",
+      "ads_Link": "https://play.google.com/store/apps/details?id=thoptv.thoptvGuide.thurthanses.varthams.thoptv11"
     },
      {
       "des": "",
       "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/VlqBbcDA-iiD62z1EZD2xNmQELTnGohiDyQkaq_LKs0wwGKBvz9XB1t-VBicGfX-kw=s180-rw",
-      "ads_name": "Live Sports GHD TV Guide",
-      "ads_Link": "https://play.google.com/store/apps/details?id=ghdsportscrickettvapps.ghdsportsfootballlivetvliveapp.livecricket.livesports.freeonline.tips10"
+      "image_path": "https://play-lh.googleusercontent.com/ZVQtiLgpA2y0Fnn2d72UxNM2EbvvD0CyUesu37lDQ4t8_SRs5T-28o3HKGQYfAOcStY=s180-rw",
+      "ads_name": "GHD",
+      "ads_Link": "https://play.google.com/store/apps/details?id=ghdsportscrickettvapps.ghdsportsfootballlivetvliveapp.livecricket.livesports.freeonline.tips12"
     },
+    {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/TcjAu_3Ye8bp1lc_EpCt1Bikup6f_X5EOmxW60mfPmuNs-5gU8SeJnN7nQNJ1ugyErg=s180-rw",
+      "ads_name": "Star Plus",
+      "ads_Link": "https://play.google.com/store/apps/details?id=freestarplusliveanupamaserials.splusstars.starplus21.freestarpluslive"
+    },
+    {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/8cHNVl3L9cDG_khkghnnLE6h62ajstFC5R8mhjwwmR8nfRibljsjfuJMI9RVZOoQvJ0=s180-rw",
+      "ads_name": "Utsav",
+      "ads_Link": "https://play.google.com/store/apps/details?id=star.utsavthop.starutsav.liveserial.forplus.utsav.utsav.StraUtsav06"
+    },
+    {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/KHX9mOBbZP_UgsOzFWI02sA5POvv0TTGuqixQyVVPj2bASY-Ow637JrTkwnZzvraczwu=s180-rw",
+      "ads_name": "Airtel TV",
+      "ads_Link": "https://play.google.com/store/apps/details?id=accedo.airtel.wynk.freeairteltvsportsappguide.livetv.freetv.airteltv06"
+    },
+    {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/ow7-DhADe1yBYFepKECegL92V8fduIO175o1ssqIJxpFjdbS4JIWbBKfXFrnTTJWTOE=s180-rw",
+      "ads_name": "Oreo TV",
+      "ads_Link": "https://play.google.com/store/apps/details?id=starsports.starsports.cricket.sportsguide.starsports.hotstar.ipl.cricket.starsports.ipl04"
+    },
+    {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/2_vVG1gCtsZD23GqNVRAC4G-TkXFrnrkcvf96YIzhof5LoeyzdxJus1CKCXhhwLJeZBs=s180-rw",
+      "ads_name": "Happy MOd",
+      "ads_Link": "https://play.google.com/store/apps/details?id=happymod.happymod.happymod.freegame.happymod.mod.tips.happymod14"
+    },
+    {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/EEqpSy1MKfACkvvpuwoLnZ-b1C76rTIXmgmUKtZ0ZTcLx4oiriT88LDgpYjzwDjOUXQ=s180-rw",
+      "ads_name": "Cricket DAba",
+      "ads_Link": "https://play.google.com/store/apps/details?id=starsports.starsports.cricket.sportsguide.starsports.hotstar.ipl.cricket.starsports04"
+    },
+    {
+      "des": "",
+      "banner": "",
+      "image_path": "https://play-lh.googleusercontent.com/8tNQEx38l_pOeckWr0CB0lduR7qWInEFSJ-gu1rzz69LZPN-dCP1trtLmJCOwfRozLM=s180-rw",
+      "ads_name": "United Menu F Аdvіѕоr Clue",
+      "ads_Link": "https://play.google.com/store/apps/details?id=united.menu.freeadvice.united.menu.freeadvice06"
+    },
+     
      {
       "des": "",
       "banner": "",
@@ -72,23 +102,6 @@
       "ads_name": "Oreo Tve",
       "ads_Link": "https://play.google.com/store/apps/details?id=oreotv.oreotv.livecrickettv.thoptv.starsports.ipl.freeoreotvguide.oreotv01"
     },
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/YjXm5Cy_xBbP46GNKyRfM1GUfr3siMw4bVVTw6lFTU-E37iwHHDUXWyy6CRYf64iJ45s=s180-rw",
-      "ads_name": "Zee Tv",
-      "ads_Link": "https://play.google.com/store/apps/details?id=graymatrix.did.zeetvfreeliveserielstvhd.freezeetvserielsguideapp09"
-    },
-    
-     {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/zzAyojz2ezUlWG4BIZy-vs85CRlaFvZK6oKGaHkqmGHgNUipSxFKxBz3ziD6Tb0mGds=s180-rw",
-      "ads_name": "Get Apps",
-      "ads_Link": "https://play.google.com/store/apps/details?id=getapps.getapps.mi.apps.get.freegetapps.guideforgetapps.walkforgetapps.getapps.getapps01"
-    },
-     
     {
       "des": "",
       "banner": "",
@@ -103,14 +116,6 @@
       "ads_name": "Lulubox",
       "ads_Link": "https://play.google.com/store/apps/details?id=lulubox.lulubox.lulubox.newluluboxappsfreefire.luluboxskintool.tips.lulubox01"
     },
- {
-      "des": "",
-      "banner": "",
-      "image_path": "https://play-lh.googleusercontent.com/qCQJ_4cfyW5yq6-l8qQxkhxRpx8sfy-tm2xINcrclw3JSAStvwxggoj6C8kVIcaTSxUv=s180-rw",
-      "ads_name": "FaceTime",
-      "ads_Link": "https://play.google.com/store/apps/details?id=facetime.facetime.facetime.videocall.facetimeguide.freefacetimeguide.facetime01"
-    },
-
      {
       "des": "",
       "banner": "",
